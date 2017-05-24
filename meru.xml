@@ -56,5 +56,67 @@
        <venue>Opposite Meru Police Station</venue>
        <image>https://r.bstatic.com/images/hotel/max1024x768/870/87055711.jpg</image>
    </item>  
+   <item id="4">
+       <name>Meru Slopes Hotel</name>
+       <desc><![CDATA[Meru Slopes Hotel is a modern hotel situated at the heart of Meru County, in Mt. Kenya Region that graces the famous Mount Kenya, the second largest mountain in Africa. 
+
+       It is strategically placed near Meru National Park and 300m to Meru central business district. It is 30 kilometers South of Isiolo International Airport and 60 kilometers Southwest to the famous Samburu National Park.]]></desc>
+       <start>1472790600000</start><!-- Stored in milliseconds  -->
+       <end>1472794200000</end><!-- Stored in milliseconds  -->
+       <venue>Meru Town</venue>
+       <image>https://aff.bstatic.com/images/hotel/840x460/472/47298018.jpg</image>
+   </item>
+   <item id="5">
+       <name>Blue Tower Hotel</name>
+       <desc><![CDATA[Situated in Meru, this hotel is within 1 mi (2 km) of Meru Museum and Meru National Polytechnic.
+
+       	Concierge services, dry cleaning, and laundry facilities are available at this hotel. Free WiFi in public areas and free self parking are also provided. Other amenities include tour/ticket assistance and free breakfast.]]></desc>
+       <start>1472801400000</start><!-- Stored in milliseconds  -->
+       <end>1472805000000</end><!-- Stored in milliseconds  -->
+       <venue>Makutano, Meru</venue>
+       <image>http://media.expedia.com/hotels/15000000/14830000/14826600/14826564/14826564_1_b.jpg</image>
+   </item>
+   <item id="6">
+       <name>Meru Safari Hotel</name>
+       <desc><![CDATA[Set 600 m from Safaricom Centre Meru in Meru, Meru Safari Hotel welcomes guests with a restaurant and bar. Guests can enjoy the on-site restaurant. Free WiFi is offered throughout the property and free private parking is available on site.
+
+       Every room comes with a flat-screen TV with satellite channels. The rooms have a private bathroom. Extras include slippers and free toiletries.
+       There is a 24-hour front desk at the property.]]></desc>
+       <start>1472808600000</start><!-- Stored in milliseconds  -->
+       <end>1472815800000</end><!-- Stored in milliseconds  -->
+       <venue>Opposite Meru Police Station</venue>
+       <image>https://r.bstatic.com/images/hotel/max1024x768/870/87055711.jpg</image>
+   </item>  
+   <item id="7">
+       <name>Meru Slopes Hotel</name>
+       <desc><![CDATA[Meru Slopes Hotel is a modern hotel situated at the heart of Meru County, in Mt. Kenya Region that graces the famous Mount Kenya, the second largest mountain in Africa. 
+
+       It is strategically placed near Meru National Park and 300m to Meru central business district. It is 30 kilometers South of Isiolo International Airport and 60 kilometers Southwest to the famous Samburu National Park.]]></desc>
+       <start>1472877000000</start><!-- Stored in milliseconds  -->
+       <end>1472880600000</end><!-- Stored in milliseconds  -->
+       <venue>Meru Town</venue>
+       <image>https://aff.bstatic.com/images/hotel/840x460/472/47298018.jpg</image>
+   </item>
+   <item id="8">
+       <name>Blue Tower Hotel</name>
+       <desc><![CDATA[Situated in Meru, this hotel is within 1 mi (2 km) of Meru Museum and Meru National Polytechnic.
+
+       	Concierge services, dry cleaning, and laundry facilities are available at this hotel. Free WiFi in public areas and free self parking are also provided. Other amenities include tour/ticket assistance and free breakfast.]]></desc>
+       <start>1472887800000</start><!-- Stored in milliseconds  -->
+       <end>1472819400000</end><!-- Stored in milliseconds  -->
+       <venue>Makutano, Meru</venue>
+       <image>http://media.expedia.com/hotels/15000000/14830000/14826600/14826564/14826564_1_b.jpg</image>
+   </item>
+   <item id="9">
+       <name>Meru Safari Hotel</name>
+       <desc><![CDATA[Set 600 m from Safaricom Centre Meru in Meru, Meru Safari Hotel welcomes guests with a restaurant and bar. Guests can enjoy the on-site restaurant. Free WiFi is offered throughout the property and free private parking is available on site.
+
+       Every room comes with a flat-screen TV with satellite channels. The rooms have a private bathroom. Extras include slippers and free toiletries.
+       There is a 24-hour front desk at the property.]]></desc>
+       <start>1472895000000</start><!-- Stored in milliseconds  -->
+       <end>1472902200000</end><!-- Stored in milliseconds  -->
+       <venue>Opposite Meru Police Station</venue>
+       <image>https://r.bstatic.com/images/hotel/max1024x768/870/87055711.jpg</image>
+   </item>  
 </talks>
 </mconference>
