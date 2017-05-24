@@ -1,0 +1,49 @@
+<conference>
+	<name>Meru</name>
+	<start>1472668200000</start>
+	<venue>Experience the Mt. Kenya Region.</venue>
+	<image>https://www.standardmedia.co.ke/images/thursday/uxkfk8ypuvktszcn58e6a6861bde2.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/MotelXML/master/meru.xml</config>
+</conference>
+<conference>
+	<name>Embu</name>
+	<start>1472841000000</start>
+	<venue>Perfect weekend get-away.</venue>
+	<image>https://enhols.co.ke/wp-content/uploads/2016/02/pathways-1.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/MotelXML/master/embu.xml</config>
+</conference>
+<conference>
+	<name>Thika</name>
+	<start>1473273000000</start>
+	<venue>Vibrant and lots of sites to visit.</venue>
+	<image>http://www.christoph-grandt.com/reaalbums/kenya2/images/135New_kenya_slide_135.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/MotelXML/master/thika.xml</config>
+</conference>
+<conference>
+	<name>Nairobi</name>
+	<start>1473273000000</start>
+	<venue>View a wide variety of 5-star hotels.</venue>
+	<image>http://www.nationsonline.org/gallery/Kenya/Nairobi-from-KICC.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/MotelXML/master/nairobi.xml</config>
+</conference>
+<conference>
+	<name>Naivasha</name>
+	<start>1473273000000</start>
+	<venue>A paradise in disguise.</venue>
+	<image>https://cdn-travel.jumia.com/web_hotel_detail_gallery/lake-naivasha-panorama-park-3686-3e272daeb203325bca5c72d135adcde9c6ca6f49.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/MotelXML/master/naivasha.xml</config>
+</conference>
+<conference>
+	<name>Eldoret</name>
+	<start>1473273000000</start>
+	<venue>Home of Champions.</venue>
+	<image>https://s-media-cache-ak0.pinimg.com/736x/02/23/1e/02231e1eec519d8f8aa749e85eb42571.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/MotelXML/master/eldoret.xml</config>
+</conference>
+<conference>
+	<name>Kisumu</name>
+	<start>1473373000000</start>
+	<venue>The Lake region has never looked this good.</venue>
+	<image>https://s-media-cache-ak0.pinimg.com/600x315/41/77/a8/4177a857aa5a0ecbac2d2ec2cc487251.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/MotelXML/master/kisumu.xml</config>
+</conference>
