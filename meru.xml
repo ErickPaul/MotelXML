@@ -1,0 +1,120 @@
+<mconference>
+<name>Oasis Spa Point</name>
+<logo>http://www.example.com/logo.png</logo>
+<venue>Oasis Spa Point</venue>
+<time>
+   <start>1472668200000</start><!-- Stored in milliseconds  -->
+   <end>1472841000000</end><!-- Stored in milliseconds  -->
+</time>
+<splashbg type="image">http://www.example.com/background.jpg</splashbg><!-- Splash Background -->
+<aboutbg>http://www.theme-resorts.com/aliyaresort/wp-content/uploads/sites/2/2014/03/2-42.jpg</aboutbg><!-- Background in About Fragment -->
+<details>Have a real feel of the establishment way before making your appointment with us. You deserve to be pampered without the hassle and bassle. Book with confidence in an instant!</details><!-- Conference Details-->
+<reglink>https://www.google.com/forms</reglink><!-- Registration Web Link -->
+<sponsors type="individual"><!-- Sponsors -->
+   <item id="1">
+       <name>Sponsor #1</name>
+       <image>http://blog.karachicorner.com/wp-content/uploads/2013/05/logo+design+17+32.jpg</image>
+   </item>
+   <item id="2">
+       <name>Sponsor #2</name>
+       <image>http://www.logodesignnz.com/wp-content/uploads/2009/08/hair_international_large1.jpg</image>
+   </item>
+   <item id="3">
+       <name>Sponsor #3</name>
+       <image>http://wac.bceb.edgecastcdn.net/80BCEB/freshcreative/cdn/farfuture/8H_XvPKfn4pQQkAUQzQkjwnNYkbHCasBIxfexSqZxHU/mtime:1411452651/sites/default/files/styles/gallery_orginal/public/Sheike%20hair%20and%20Beauty_0.jpg?itok=S0moZAb9</image>
+   </item>
+</sponsors>
+<talks><!-- Talks -->
+   <item id="1">
+       <name>Stone Therapy</name>
+       <desc><![CDATA[Heated,smooth stones are placed on certain points on the body to warm and loosen tight muscles and balance energy centers.
+	   
+	   KSH:2,500 P.P]]></desc>
+       <start>1472704200000</start><!-- Stored in milliseconds  -->
+       <end>1472707800000</end><!-- Stored in milliseconds  -->
+       <venue>Namaste Lounge</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body2.jpg</image>
+   </item>
+   <item id="2">
+       <name>Thigh Therapy</name>
+       <desc><![CDATA[Detoxifying clays pulls toxins from deep within the skin as pure cane sugar sloughs expired cells to reveal.
+	   
+	   KSH:3,500 P.P]]></desc>
+       <start>1472715000000</start><!-- Stored in milliseconds  -->
+       <end>1472718600000</end><!-- Stored in milliseconds  -->
+       <venue>Nehru Trails</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body4.jpg</image>
+   </item>
+   <item id="3">
+       <name>G-8 Massage Therapy</name>
+       <desc><![CDATA[Discover the new technological advantages of the G8 Massage Therapy System! Exclusive electro-massage features include exclusive gyrating applicator heads for multiple beauty treatments and services.
+	   
+	   KSH:1,500 P.P]]></desc>
+       <start>1472722200000</start><!-- Stored in milliseconds  -->
+       <end>1472729400000</end><!-- Stored in milliseconds  -->
+       <venue>Gandhi Trails</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body3.jpg</image>
+   </item>
+    <item id="4">
+       <name>Asian Crushed Pearl Signature Facial</name>
+       <desc><![CDATA[Borrowed from the beauty rituals of the famed geishas, these exotic ingredients are revered for their ability to brighten the complexion, boost circulation, restore suppleness and improve overall skin condition.  The end results is a luxurious facial that harkens back to the days of the famed Geishas while helping your ward of environmental damage and slow the aging process by neutralizing dangerous free radicals.
+	   
+	   KSH:2,500 P.P]]></desc>
+       <start>1472790600000</start><!-- Stored in milliseconds  -->
+       <end>1472794200000</end><!-- Stored in milliseconds  -->
+       <venue>Ayesha Lounge</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/face1.jpg</image>
+   </item>
+   <item id="5">
+       <name>The Oasis Cathiodermie Experience </name>
+       <desc><![CDATA[A deep cleansing Facial treatment using state-of-the-art skin cleansing equipment to not only remove the service dead skin cells, dirt and debris but also deep cleanses and detoxifies the inner layers of the skin using high frequency and galvanic massage.
+	   
+	   KSH:4,500 P.P]]></desc>
+       <start>1472801400000</start><!-- Stored in milliseconds  -->
+       <end>1472805000000</end><!-- Stored in milliseconds  -->
+       <venue>Waterfall Complex</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/face2.jpg</image>
+   </item>
+   <item id="6">
+       <name>The Oasis Fresh Face</name>
+       <desc><![CDATA[An excellent facial customized for all different skin types to rejuvenate and restore skin radiance. This treatment is designed especially for relaxing and restoring.
+	   
+	   KSH:1,500 P.P]]></desc>
+       <start>1472808600000</start><!-- Stored in milliseconds  -->
+       <end>1472815800000</end><!-- Stored in milliseconds  -->
+       <venue>Teresa Trails</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/face3.jpg</image>
+   </item>
+   <item id="7">
+        <name>Amazonian Guavaberry Pedicure</name>
+        <desc><![CDATA[Travel to one of the most exotic locales on earth, shrouded in mystery and overflowing with native wildlife. Our Amazonian Guavaberry pedicure harnesses the power of potent antioxidants and essential vitamins-the building blocks of radiant skin with array of responsibly-harvested, sustainable ingredients direct from South America.
+		
+		KSH:1,200 P.P]]></desc>
+        <start>1472877000000</start><!-- Stored in milliseconds  -->
+        <end>1472880600000</end><!-- Stored in milliseconds  -->
+        <venue>Mani-Pedi Lounge</venue>
+        <image>https://github.com/ErickPaul/CONFbackend/raw/master/ped1.jpg</image>
+    </item>
+    <item id="8">
+        <name>Bamboo-Orchid  indulgence pedicure</name>
+        <desc><![CDATA[Unearth ancient beauty treatment from the orient that date back to the Ming dynasty. Steeped in mystery and passed down through the generations, these exotic ingredients are revered for their ability to brighten the complexion, boost circulation, restore suppleness and improve overall skin condition.
+		
+		KSH:1,500 P.P]]></desc>
+        <start>1472887800000</start><!-- Stored in milliseconds  -->
+        <end>1472819400000</end><!-- Stored in milliseconds  -->
+        <venue>Mani-Pedi Lounge</venue>
+        <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/ped2.jpg</image>
+    </item>
+    <item id="9">
+        <name>Chocolate covered strawberry Mani/Pedi</name>
+        <desc><![CDATA[Delicious strawberries are blended in insanely decadent chocolate collective to create a treatment with a nod to all things romantic. Enriched with real strawberry, pure shea butter and organic cocoa, you will enjoy this one-of-a-kind treat.
+		
+		KSH:1,500 P.P]]></desc>
+        <start>1472895000000</start><!-- Stored in milliseconds  -->
+        <end>1472902200000</end><!-- Stored in milliseconds  -->
+        <venue>Mani-Pedi Lounge</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/ped3.jpg</image>
+    </item>
+   
+</talks>
+</mconference>
